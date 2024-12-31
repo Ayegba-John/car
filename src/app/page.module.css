@@ -1,0 +1,156 @@
+.navbar{
+  border: solid red 2px;
+  height: 6.5rem;
+  display: flex;
+  justify-content: center;
+  background-color: grey;
+  
+}
+.navbar__wrap{
+  width: 100%;
+  max-width: 82.5rem;
+  display: flex;
+  justify-content: space-between;
+  border: black 2px solid;
+
+}
+.navbar__logo{
+  border: solid #31330f 2px;
+  
+}
+
+.navbar__middle{
+  border: solid blue 2px;
+
+}
+
+.navbar__right{
+  border: solid greenyellow 2px;
+  
+}
+.hero{
+  height: 49rem;
+  background-color: #030313;
+  display: flex;
+  justify-content: center;
+}
+.hero__wrap{
+  width: 100%;
+  max-width: 82.5rem;
+  border: 2px solid orange;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 50px;
+
+}
+.hero__left{
+  border: solid white 2px;
+  height: 24rem;
+  width: 30rem;
+
+}
+.hero__right{
+  border: solid white 2px;
+  height: 24rem;
+  width: 30rem;
+
+}
+.feedback{
+  height: 49rem;
+  background-color: #030313;
+  display: flex;
+  justify-content: center;
+
+}
+.feedback__warp{
+  max-width: 82.5rem;
+  border: 2px solid orange;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+.feedback__top{
+  border: solid rgb(255, 255, 255) 2px;
+  height: 8rem;
+  width: 50rem;
+  margin-bottom: 3rem;
+
+}
+.feedback__buttom{
+  border: solid white 2px;
+  height: 8rem;
+  width: 50rem;
+
+}
+
+.appoint{
+  height: 49rem;
+  background-color: #030313;
+  display: flex;
+  justify-content: center;
+
+}
+.appoint__warp{
+  max-width: 82.5rem;
+  border: 2px solid palevioletred;
+  display: flex;
+ 
+
+}
+
+.appoint__left{
+  border: solid white 2px;
+  height: 18rem;
+  width: 10rem;
+
+}
+.appoint__middle{
+  border: solid white 2px;
+  height: 18rem;
+  width: 10rem;
+
+}
+
+.appoint__right{
+  border: solid white 2px;
+  height: 18rem;
+  width: 10rem;
+
+}
+.appoint{
+    height: 49rem;
+    background-color: #030313;
+    display: flex;
+    justify-content: center;
+  
+  }
+  .appoint__warp{
+    max-width: 82.5rem;
+    border: 2px solid palevioletred;
+    display: flex;
+   
+  
+  }
+  
+  .appoint__left{
+    border: solid white 2px;
+    height: 18rem;
+    width: 10rem;
+  
+  }
+  .appoint__middle{
+    border: solid white 2px;
+    height: 18rem;
+    width: 10rem;
+  
+  }
+  
+  .appoint__right{
+    border: solid white 2px;
+    height: 18rem;
+    width: 10rem;
+  
+  }
