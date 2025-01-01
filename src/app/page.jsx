@@ -10,7 +10,15 @@ const page = () => {
           <div className={styles.navbar__logo}>
             <img src="gig.png" alt="Gig logo" />
           </div>
-          <div className={styles.navbar__middle}>middel</div>
+          <div className={styles.navbar__middle}>
+            <ul>
+              <li>Route Price</li>
+              <li>Move Freely</li>
+              <li>Do Freely</li>
+              <li>Suggest Route</li>
+              <li></li>
+            </ul>
+          </div>
           <div className={styles.navbar__right}>right</div>
         </div>
       </nav>
