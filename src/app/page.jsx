@@ -1,6 +1,6 @@
 "use client";
 import styles from "./page.module.css";
-import Footer from "./components/Footer/Footer";
+import Low from "./components/Low/Low";
 
 const page = () => {
   return (
@@ -34,7 +34,7 @@ const page = () => {
           <div className={styles.feedback__buttom}></div>
         </div>
       </div>
-      <Footer />
+      <Low />
     </div>
   );
 };
