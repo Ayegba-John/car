@@ -6,10 +6,10 @@ const low = () => {
       <div>
         <img src="gig.png" alt="" />
       </div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
+      <div>Company</div>
+      <div>Experience</div>
+      <div>Terms</div>
+      <div>Connect With Us</div>
     </div>
   );
 };
