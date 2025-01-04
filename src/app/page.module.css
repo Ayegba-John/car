@@ -1,40 +1,39 @@
-.navbar{
+.navbar {
   border: solid red 2px;
   height: 6.5rem;
   display: flex;
   justify-content: center;
-  background-color: grey;
-  
+  background-color: white;
 }
-.navbar__wrap{
+.navbar__wrap {
   width: 100%;
   max-width: 82.5rem;
   display: flex;
   justify-content: space-between;
   border: black 2px solid;
-
 }
-.navbar__logo{
+.navbar__logo {
   border: solid #31330f 2px;
-  
 }
 
-.navbar__middle{
+.navbar__middle {
   border: solid blue 2px;
-
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  font-size: large;
 }
 
-.navbar__right{
+.navbar__right {
   border: solid greenyellow 2px;
-  
 }
-.hero{
+.hero {
   height: 49rem;
   background-color: #030313;
   display: flex;
   justify-content: center;
 }
-.hero__wrap{
+.hero__wrap {
   width: 100%;
   max-width: 82.5rem;
   border: 2px solid orange;
@@ -42,115 +41,102 @@
   justify-content: space-evenly;
   align-items: center;
   margin-top: 50px;
-
 }
-.hero__left{
+.hero__left {
   border: solid white 2px;
   height: 24rem;
   width: 30rem;
-
 }
-.hero__right{
+.hero__right {
   border: solid white 2px;
   height: 24rem;
   width: 30rem;
-
 }
-.feedback{
+.feedback {
   height: 49rem;
   background-color: #030313;
   display: flex;
   justify-content: center;
-
 }
-.feedback__warp{
+.feedback__warp {
   max-width: 82.5rem;
   border: 2px solid orange;
   display: flex;
   justify-content: center;
   align-items: center;
-  
-
 }
-.feedback__top{
+.feedback__top {
   border: solid rgb(255, 255, 255) 2px;
   height: 8rem;
   width: 50rem;
   margin-bottom: 3rem;
-
 }
-.feedback__buttom{
+.feedback__buttom {
   border: solid white 2px;
   height: 8rem;
   width: 50rem;
-
 }
 
-.appoint{
+.appoint {
   height: 49rem;
   background-color: #030313;
   display: flex;
   justify-content: center;
-
 }
-.appoint__warp{
+.appoint__warp {
   max-width: 82.5rem;
   border: 2px solid palevioletred;
   display: flex;
- 
-
 }
 
-.appoint__left{
+.appoint__left {
   border: solid white 2px;
   height: 18rem;
   width: 10rem;
-
 }
-.appoint__middle{
+.appoint__middle {
   border: solid white 2px;
   height: 18rem;
   width: 10rem;
-
 }
 
-.appoint__right{
+.appoint__right {
   border: solid white 2px;
   height: 18rem;
   width: 10rem;
-
 }
-.appoint{
-    height: 49rem;
-    background-color: #030313;
-    display: flex;
-    justify-content: center;
-  
-  }
-  .appoint__warp{
-    max-width: 82.5rem;
-    border: 2px solid palevioletred;
-    display: flex;
-   
-  
-  }
-  
-  .appoint__left{
-    border: solid white 2px;
-    height: 18rem;
-    width: 10rem;
-  
-  }
-  .appoint__middle{
-    border: solid white 2px;
-    height: 18rem;
-    width: 10rem;
-  
-  }
-  
-  .appoint__right{
-    border: solid white 2px;
-    height: 18rem;
-    width: 10rem;
-  
-  }
+.appoint {
+  height: 49rem;
+  background-color: #030313;
+  display: flex;
+  justify-content: center;
+}
+.appoint__warp {
+  max-width: 82.5rem;
+  border: 2px solid palevioletred;
+  display: flex;
+}
+
+.appoint__left {
+  border: solid white 2px;
+  height: 18rem;
+  width: 10rem;
+}
+.appoint__middle {
+  border: solid white 2px;
+  height: 18rem;
+  width: 10rem;
+}
+
+.appoint__right {
+  border: solid white 2px;
+  height: 18rem;
+  width: 10rem;
+}
+.btn {
+  background-color: red;
+  color: white;
+  height: 2rem;
+  border-radius: 2px;
+  border: none;
+}

@@ -10,8 +10,8 @@ const page = () => {
           <div className={styles.navbar__logo}>
             <img src="gig.png" alt="Gig logo" />
           </div>
-          <div className={styles.navbar__middle}>
-            <ul>
+          <div>
+            <ul className={styles.navbar__middle}>
               <li>Route Price</li>
               <li>Move Freely</li>
               <li>Do Freely</li>
@@ -19,7 +19,9 @@ const page = () => {
               <li></li>
             </ul>
           </div>
-          <div className={styles.navbar__right}>right</div>
+          <div className={styles.navbar__right}>
+            <button className={styles.btn}>Sign in/Sign out</button>
+          </div>
         </div>
       </nav>
       <section className={styles.hero}>
