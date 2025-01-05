@@ -15,6 +15,13 @@ const hero = () => {
           <div className={styles.feedback__buttom}></div>
         </div>
       </div>
+
+      <div className={styles.heavy}>
+        We do heavy liftin Earn easy With GIGM become an enterprise partner
+        <div>
+          <button>Start earnng</button>
+        </div>
+      </div>
     </div>
   );
 };

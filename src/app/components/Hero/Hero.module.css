@@ -104,3 +104,9 @@
   height: 18rem;
   width: 10rem;
 }
+.heavy {
+  border: 2px red solid;
+  background-color: blue;
+  height: 20rem;
+  width: 20rem;
+}
