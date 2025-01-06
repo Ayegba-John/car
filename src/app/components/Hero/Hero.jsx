@@ -15,6 +15,9 @@ const hero = () => {
           <div className={styles.feedback__buttom}></div>
         </div>
       </div>
+      <div className={styles.appvantage}>
+        Enjoy GIGM appvantage Move Freely, Do Easily
+      </div>
 
       <div className={styles.heavy}>
         We do heavy liftin Earn easy With GIGM become an enterprise partner
