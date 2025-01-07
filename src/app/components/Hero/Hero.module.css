@@ -116,3 +116,7 @@
   height: 20rem;
   width: 40rem;
 }
+.light {
+  border: red 2px solid;
+  width: 40rem;
+}
