@@ -25,6 +25,18 @@ const hero = () => {
         bus tickets, airtime, data and pay for utility bills using the digital
         wallet available only on the mobile app.
       </div>
+      <div className={styles.light}>
+        The lightest digital wallet you will ever own The GIGM digital wallet is
+        a seamless way to pay for transactions within our ecosystem. Purchase
+        bus tickets, airtime, data and pay for utility bills using the digital
+        wallet available only on the mobile app.
+      </div>
+      <div className={styles.light}>
+        The lightest digital wallet you will ever own The GIGM digital wallet is
+        a seamless way to pay for transactions within our ecosystem. Purchase
+        bus tickets, airtime, data and pay for utility bills using the digital
+        wallet available only on the mobile app.
+      </div>
 
       <div className={styles.heavy}>
         We do heavy liftin Earn easy With GIGM become an enterprise partner
