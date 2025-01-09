@@ -2,3 +2,6 @@
   border: 2px red solid;
   display: flex;
 }
+.low {
+  border: 2px yellow solid;
+}
