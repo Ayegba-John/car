@@ -2,6 +2,7 @@
 import styles from "./page.module.css";
 import Hero from "./components/Hero/Hero";
 import Low from "./components/Low/Low";
+import Simple from "./components/Simple/Simple";
 
 const page = () => {
   return (
@@ -27,6 +28,7 @@ const page = () => {
       </nav>
       <Hero />
       <Low />
+      <Simple />
     </div>
   );
 };
