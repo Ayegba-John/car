@@ -11,6 +11,11 @@ const Simple = () => {
     <div>
       <input placeholder="write something..." onChange={onChange} />
       {inputValue}
+
+      <div>
+        <input placeholder="write something..." onChange={onChange} />
+        {inputValue}
+      </div>
     </div>
   );
 };
