@@ -14,6 +14,7 @@ const page = () => {
           </div>
           <div>
             <ul className={styles.navbar__middle}>
+              <li>Ghana Route</li>
               <li>Route Price</li>
               <li>Move Freely</li>
               <li>Do Freely</li>
